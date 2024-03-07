@@ -85,8 +85,8 @@ const Customer = () => {
         >
           New Customer
         </Link>
-        <p class="text-muted">
-          Showing <span class="text-primary">{count}</span> Customers in the
+        <p className="text-muted">
+          Showing <span className="text-primary">{count}</span> Customers in the
           database.
         </p>
         <CustomerTable

@@ -4,7 +4,6 @@ import Customer from "./components/Customer/Customer";
 import CustomerForm from "./components/Customer/CustomerForm";
 import NotFound from "./components/NotFound";
 
-
 const App = () => {
   return (
     <>
